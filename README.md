@@ -1,7 +1,6 @@
 # My-LibSpace
 drive link :https://drive.google.com/drive/folders/1pQVqWW8qYdCnBfGU5UZRH6rRLldHFQUt?usp=sharing
 Demo video link :https://drive.google.com/file/d/1CfjCaKiEtj4AYAg-Vi3MPO3zejm9bP0S/view?usp=sharing
-Phases :https://drive.google.com/drive/folders/1xUOSLWq9rNU9s5oE-BHQrLgJEswBH3yp?usp=drive_link
 # My Libspace
 
 > LibSpace is a backend API project designed to teach students the fundamentals of authentication and CRUD operations using Node.js, Express, and MongoDB. The system allows users to securely register and log in to receive a JSON Web Token (JWT). Authenticated users can then manage a digital library by adding new books, viewing the entire collection or specific id, updating book details, and deleting entries, ensuring that sensitive data modification is protected by secure token verification.
